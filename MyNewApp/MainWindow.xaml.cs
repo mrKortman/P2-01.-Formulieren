@@ -23,6 +23,7 @@ namespace MyNewApp
         public MainWindow()
         {
             InitializeComponent();
+
         }
 
         private void Button_Someclick(object sender, RoutedEventArgs e)
